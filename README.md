@@ -1,16 +1,19 @@
 # Lista-de-Tarefas
 
-Parabéns, você chegou na etapa do Desafio Técnico, do nosso processo seletivo para a Vaga de Pessoa Desenvolvedora Jr na Ebytr. :confete_e_serpentina:
+Parabéns, você chegou na etapa do Desafio Técnico, do nosso processo seletivo para a Vaga de Pessoa Desenvolvedora Jr na Ebytr.
 
 Considerações sobre o desafio
 
 O prazo para a entrega da solução vai do recebimento do desafio até o dia 05/07 ás 12h00.
 Todas as informações que você precisa saber estão endereçadas no desafio.
 
+
 Sobre a entrega:
 
 O código deve ser mantido na sua conta pessoal do GitHub, portanto crie um novo repositório público com o nome a sua escolha;
+
 Mantenha a última versão do código na branch principal (main);
+
 Ao finalizar o desenvolvimento, preencha este formulário, com algumas informações sobre a sua entrega, incluindo o link do seu repositório. Certifique se que o repositório está público e é acessível por qualquer pessoa!
 
 
@@ -29,16 +32,22 @@ Abaixo estão (i) os requisitos técnicos, (ii) as funcionalidades, (iii) crité
 ## Requisitos técnicos:
 
 Front-End em React;
+
 Back-End em NodeJS, com MySQL;
+
 Arquitetura em camadas;
 
 ## Funcionalidades:
 
 1- Visualizar a lista de tarefas;
-Esta lista deve ser ordenável por ordem alfabética, data de criação ou por status;
+    Esta lista deve ser ordenável por ordem alfabética, data de criação ou por status;
+
 2- Inserir uma nova tarefa na lista;
+
 3- Remover uma tarefa da lista;
+
 4- Atualizar uma tarefa da lista;
+
 5- A tarefa deve possuir um status editável: pendente, em andamento ou pronto;
 
 ## Critérios de avaliação
