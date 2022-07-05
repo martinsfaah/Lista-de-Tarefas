@@ -21,8 +21,10 @@ acesse [http://localhost:3001](localhost:3001)
 - Listar tarefas
 - Ordernar
 - Adicionar nova tarefa
+- Editar status (backend)
+- Deletar (backend)
 
 Débitos técnicos:
 - Testes unitários
-- Funcionalidade de deletar e editar (mudar estados)
+- Funcionalidade de deletar e editar (frontend)
 - Dotenv para parâmetros de ambiente (usuário, senha, etc)
